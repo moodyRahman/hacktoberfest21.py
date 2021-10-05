@@ -36,11 +36,12 @@ In either the title, description, or commit logs of the pull request, use the ph
 that your pull requests resolves. 
 
 
-## Handling environmental variable
+## Getting started
 
 Given that this project is interfacing with an API, each developer will need their
 own set of API key's. Make an account at Twilio.com and paste your corresponding
 tokens into the .env file. The base .env is committed, but all further edits to 
 the file will be ignored by Git. 
+
 
 ## Be sure to use a virtual environment while developing!
