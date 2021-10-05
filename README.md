@@ -11,3 +11,9 @@ An opensource project for Hunter's 2021 Hacktober.
 - Text a phone number which seat you're about to use
 - Our servers update the current state of all the library seats
 - Text that same number for a response on which seats are currently available
+
+
+NOTE: We're prioritizing pull requests from Hunter students, then the greater
+CUNY community, and then outside pull requests. The purpose of this project is to 
+introduce open source programming concepts, version control, and foster the Hunter 
+CS Community. 
